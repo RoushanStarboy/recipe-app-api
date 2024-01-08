@@ -18,4 +18,3 @@ class CalcTests(SimpleTestCase):
         result = calc.subtract(20, 5)
 
         self.assertEqual(result, 15)
-        
